@@ -11,11 +11,11 @@ I took a course: 'Comparative Culture Teaching in Today’s Society: Careers in 
 
 Specifically, I wanted to explore the picture exchange communication system (PECS), which is an augmentative and alternative communication (AAC) system that utilizes pictures to enable individuals with communication difficulties to express their needs and desires in a non-verbal manner. 
 
-Before beginning my project, I reached out to my professor for additional research to where she linked two papers on reading comprehesion: https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.411 and https://www.literacyworldwide.org/docs/default-source/bonus-materials/front-matter-710.pdf. 
+Before beginning my project, I reached out to my professor for additional research to which she linked two papers on reading comprehesion: https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.411 and https://www.literacyworldwide.org/docs/default-source/bonus-materials/front-matter-710.pdf. 
 
 For my project, I aimed to make general reading materials more engaging and comprehensive. Once I tackled this, I want to explore conjunctions, prepositions, and more abstract terms. 
 
-problem statement - elementary students (6-10) can struggle to transition from picture books to chapter books because of inexperienced fluency, matured content, lack of feedback, and shortened attention span. 
+Problem Statement - Elementary students (6-10) can struggle to transition from picture books to chapter books because of inexperienced fluency, matured content, lack of feedback, and shortened attention span. 
 
 # solution - turn every chapter book into a picture book 
 - Start storyboards for your favorite chapter book to track reading progress.
@@ -29,4 +29,4 @@ problem statement - elementary students (6-10) can struggle to transition from p
 Implement a RAG pipeline to create consistent visuals when adding more elements i.e humans, animals.
 
 # closing notes
-i hope this application speaks to families, but most importantly towards your inner child that thought reading was boring because you weren't able to immerse yourself in a book.  
+I hope this application speaks to families, but most importantly towards your inner child that thought reading was boring because you weren't able to immerse yourself in a book.  
