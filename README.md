@@ -23,7 +23,7 @@ problem statement - elementary students (6-10) can struggle to transition from p
 (i will link my system design drafts)
 
 # next steps for whimsi
-- Implement a RAG pipeline to create consistent visuals when adding more elements i.e humans, animals.
+Implement a RAG pipeline to create consistent visuals when adding more elements i.e humans, animals.
 
 # closing notes
 i hope this application speaks to families, but most importantly towards your inner child that thought reading was boring because you weren't able to immerse yourself in a book.  
