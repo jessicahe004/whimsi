@@ -3,6 +3,7 @@ Whimsi is an web application that allows users to visualize their reading journe
 
 # inspiration! 
 I took a course: 'Comparative Culture Teaching in Today’s Society: Careers in Special Education' where I learned about intentional steps taken towards creating inclusive classrom. 
+
 (sketch-notes for the course) 
 
 <img width="393" alt="Screenshot 2024-08-05 at 1 24 23 AM" src="https://github.com/user-attachments/assets/9f39834a-ed1f-4806-a003-5d1f637d3464">
