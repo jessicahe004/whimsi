@@ -27,7 +27,7 @@ Problem Statement - Elementary students (6-10) can struggle to transition from p
 
 # next steps for whimsi
 - Implement a RAG pipeline to create consistent visuals when adding more elements i.e humans, animals.
-- Experiment with user preferences with processing time and different chunking techniques i.e uploading entire book versus chapter by chapter. 
+- Experiment with user preferences for processing time and different chunking techniques i.e uploading entire book versus chapter by chapter. 
 
 # closing notes
 I hope this application speaks to families, but most importantly towards your inner child that thought reading was boring because you weren't able to immerse yourself in a book.  
