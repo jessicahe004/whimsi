@@ -22,6 +22,14 @@ Problem Statement - Elementary students (6-10) can struggle to transition from p
 - Machine learning for scanning by page number, chunking to maintain in-order setence structure, and removing filler words for prompting.
 - Environmental scenes generated for each upload check-point. 
 
+# meet the tools 
+- React.js frontend for a simple interface.
+- Third.js for adding animation on landing-page. 
+- FastAPI backend for building quick micro-services. 
+- PyMuPDF for scanning and extracting text from PDF file to return a list of chunks.
+- Gemini API for fine-tuning and filtering the list of chunks into appropriate prompts.
+- Stable Diffusion run on a local server for image generation.
+
 # learning process - "premature optimization is the root of all evil"
 (i will link my system design drafts)
 
