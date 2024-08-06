@@ -22,7 +22,7 @@ Problem Statement - Elementary students (6-10) can struggle to transition from p
 - Machine learning for scanning by page number, chunking to maintain in-order setence structure, and removing filler words for prompting.
 - Environmental scenes generated for each upload check-point. 
 
-# learning process - "pre optimization is the root of all evil"
+# learning process - "premature optimization is the root of all evil"
 (i will link my system design drafts)
 
 # next steps for whimsi
