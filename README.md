@@ -34,7 +34,7 @@ Problem Statement - Elementary students (6-10) can struggle to transition from p
 (i will link my system design drafts)
 
 check-point #1: landing page, upload file -> text extracted 
-[<iframe src="https://www.capcut.com/player/7400123903353569285?workspaceId=7328096117382545414" allow="clipboard-write" frameborder="0" width="100%" height="100%" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>](https://www.capcut.com/s/CXLZbxLu6QeDe7MF/)
+https://www.capcut.com/presentation/7400123903353569285?workspaceId=7328096117382545414&utm_source=share&utm_medium=product
 
 # next steps for whimsi
 - Implement a RAG pipeline to create consistent visuals when adding more elements i.e humans, animals.
