@@ -33,8 +33,7 @@ Problem Statement - Elementary students (6-10) can struggle to transition from p
 # learning process - "premature optimization is the root of all evil"
 (i will link my system design drafts)
 
-check-point #1: landing page, upload file -> text extracted 
-https://www.capcut.com/presentation/7400123903353569285?workspaceId=7328096117382545414&utm_source=share&utm_medium=product
+check-point #1: landing page, upload file -> text extracted https://www.capcut.com/s/CVzWZkWEvW5qPJA1/
 
 # next steps for whimsi
 - Implement a RAG pipeline to create consistent visuals when adding more elements i.e humans, animals.
