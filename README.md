@@ -27,13 +27,20 @@ Problem Statement - Elementary students (6-10) can struggle to transition from p
 - Third.js for adding animation on landing-page. 
 - FastAPI backend for building quick micro-services. 
 - PyMuPDF for scanning and extracting text from PDF file to return a list of chunks.
-- Gemini API for fine-tuning and filtering the list of chunks into appropriate prompts.
-- Stable Diffusion run on a local server for image generation.
+- TBD model for fine-tuning and filtering the list of chunks into appropriate prompts.
+- TBD image generator run on a local server for image generation.
 
 # learning process - "premature optimization is the root of all evil"
 (i will link my system design drafts)
 
+MVP - 
 check-point #1: landing page, upload file -> text extracted https://www.capcut.com/s/CVzWZkWEvW5qPJA1/
+checkpoint #2: prompt generation 
+checkpoint #3: image generation
+
+NEXT STAGE
+check-point #1: tokenization (exploring sliding window tokens, variable tokens) 
+check-point #2: semantic search 
 
 # next steps for whimsi
 - Implement a RAG pipeline to create consistent visuals when adding more elements i.e humans, animals.
