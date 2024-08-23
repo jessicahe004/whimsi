@@ -1,0 +1,80 @@
+.upload-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f9f9f9;
+    padding: 2%;
+    box-sizing: border-box;
+  }
+  
+  .slideshow-container {
+    display: flex;
+    width: 75%; /* Width of the carousel container */
+    height: 50vh; /* 50% of the viewport height */
+    background-color: #fff;
+    border-radius: 2%;
+    box-shadow: 0 1.5% 3% rgba(0, 0, 0, 0.1);
+    overflow: hidden; /* Ensure content doesn’t overflow */
+  }
+  
+  .text-section {
+    width: 50%; /* Half of the carousel container's width */
+    padding: 2%;
+    box-sizing: border-box;
+    overflow-y: auto;
+    border-right: 1px solid #ddd; /* Divider between text and image */
+    display: flex;
+    align-items: center;
+    position: relative; /* Position relative to contain the button */
+  }
+  
+  .text-button {
+    position: absolute;
+    left: 2%; /* Position the button to the left of the text section */
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+    color: #333;
+    z-index: 1;
+  }
+  
+  .image-section {
+    width: 50%; /* Half of the carousel container's width */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+    box-sizing: border-box;
+  }
+  
+  .slideshow-image {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+  }
+  
+  .slide-button {
+    background: none;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #333;
+    z-index: 1;
+  }
+  
+  .prev {
+    left: 2%;
+  }
+  
+  .next {
+    right: 2%;
+  }
+  
