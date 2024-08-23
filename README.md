@@ -33,14 +33,15 @@ Problem Statement - Elementary students (6-10) can struggle to transition from p
 # learning process - "premature optimization is the root of all evil"
 (i will link my system design drafts)
 
-MVP - 
+MVP
 - check-point #1: landing page, upload file -> text extracted https://www.capcut.com/s/CVzWZkWEvW5qPJA1/
 - checkpoint #2: prompt generation 
 - checkpoint #3: image generation
 
 NEXT STAGE
 - check-point #1: tokenization (exploring sliding window tokens, variable tokens) 
-- check-point #2: semantic search 
+- check-point #2: semantic search
+- check-point #3: optimize processing time 
 
 # next steps for whimsi
 - Implement a RAG pipeline to create consistent visuals when adding more elements i.e humans, animals.
