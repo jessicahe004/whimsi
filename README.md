@@ -34,9 +34,9 @@ Problem Statement - Elementary students (6-10) can struggle to transition from p
 (i will link my system design drafts)
 
 MVP
-- check-point #1: landing page, upload file -> text extracted https://www.capcut.com/s/CVzWZkWEvW5qPJA1/
-- checkpoint #2: prompt generation 
-- checkpoint #3: image generation
+- check-point #1: landing page, upload file -> text extracted - https://www.capcut.com/s/CVzWZkWEvW5qPJA1/
+- checkpoint #2: prompt generation - https://www.capcut.com/s/CSZbCW79xp5ZHc0l/
+- checkpoint #3: image generation - https://www.capcut.com/s/CYlgYr1Ucj4r6S4X/
 
 NEXT STAGE
 - check-point #1: tokenization (exploring sliding window tokens, variable tokens) 
